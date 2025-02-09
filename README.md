@@ -1,6 +1,6 @@
-# ODEs (Math 302) PILOT @ Johns Hopkins University
+# ODEs (`Math 302`) PILOT @ Johns Hopkins University
 
-Upcoming:
+Current:
 - [Spring 2025](https://jhu-ode-pilot.github.io/SP25)
 
 Past Archives:
