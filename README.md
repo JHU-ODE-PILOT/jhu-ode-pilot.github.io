@@ -1,6 +1,9 @@
 # ODEs (`Math 302`) PILOT @ Johns Hopkins University
 
 Future:
+- [Fall 2025](https://jhu-ode-pilot.github.io/FA25)
+
+Current:
 - [Summer 2025](https://jhu-ode-pilot.github.io/SU25)
 
 Past Archives:
