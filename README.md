@@ -17,4 +17,4 @@ Past Archives:
 |:------------|
 |*The problem sets and solutions might contain error(s): We are trying our best to fix any as we catch them.*<br>*Please always refresh for the newest version. If you still notice any in the current semester, please contact the author.*|
 
-<div style="text-align:right">Author: [James Guo](http://james-guo-03.github.io/)</div>
+<div style="text-align:right">Author: <a href="http://james-guo-03.github.io/">James Guo</a></div>
