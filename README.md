@@ -2,10 +2,11 @@
 
 This is a course in ordinary differential equations (ODEs), equations involving an unknown function of one independent variable and some of its derivatives, and is primarily a course in the study of the structure of and techniques for solving ODEs as mathematical models. Specific topics include first and second ODEs of various types, systems of linear differential equations, autonomous systems, and the qualitative and quantitative analysis of nonlinear systems of first-order ODEs. Laplace transforms, series solutions and the basics of numerical solutions are included as extra topics.
 
-Current Semester:
-- [Fall 2025](https://jhu-ode-pilot.github.io/FA25)
+Future Semester:
+- [Spring 2026](https://jhu-ode-pilot.github.io/SP26)
 
 Past Archives:
+- [Fall 2025](https://jhu-ode-pilot.github.io/FA25)
 - [Summer 2025](https://jhu-ode-pilot.github.io/SU25)
 - [Spring 2025](https://jhu-ode-pilot.github.io/SP25)
 - [Fall 2024](https://jhu-ode-pilot.github.io/FA24)
