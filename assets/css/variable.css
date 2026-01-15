@@ -1,0 +1,9 @@
+:root {
+    --dark-color:  #666666ee; 
+    --dark-light: #3d3d3dee;
+    --light-color: #f0f0f0ee; 
+    --light-light: #d8d8d8ee;
+
+    --font-family: "Palatino Linotype", "Palatino", "Book Antiqua", serif;
+    --font-code: "Monaco", monospace;
+}

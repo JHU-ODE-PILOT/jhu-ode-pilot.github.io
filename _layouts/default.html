@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JHU Differential Equations: PILOT</title>
+    <link rel="shortcut icon" href="/img/logo.png">
+    <link rel="stylesheet" href="/assets/css/variable.css">
+    <link rel="stylesheet" href="https://bear-resort.github.io/assets/css/style.css">
+    <script type="text/javascript"
+      async
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+    </script>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/default.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+    <script>hljs.highlightAll();</script>
+</head>
+
+<body class="day-theme">
+  <script type="module" src="https://bear-resort.github.io/assets/js/cookie.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+
+  <div class="topnav" id="top" style="text-align: center;">
+    <span class="logo"> <img src="/SP26/img/logo.png" style="vertical-align: middle; height: 25px; width: 25px" alt="logo"></span> &nbsp; PILOT Learning for <i>Differential Equations</i> &nbsp; Main Page
+  </div>
+  <div id="dynamic-island" style="display: none;"></div>
+  <div id="content" style="text-align: left;">
+    <br><br><br>
+    <div style="text-align: center;">
+        <div class="largertitle">{{ page.title }}</div>
+    </div>
+    <br>
+    <div id="contents">
+      {{ content }}
+    </div>
+    <br><br><br>
+  </div>
+
+  <canvas id="drawCanvas"
+    style="position:fixed;top:0;left:0;width:100vw;height:100vh;
+    pointer-events:none;z-index:2;display:none;">
+  </canvas>
+
+  <div id="day-night">🌞</div>
+  <div class="botnav" id="btm" style="text-align: center;">
+    <div id="cmd" style="display: none; z-index: 8;">
+      <input type="text" style="width: 90%;" id="cmd-box" placeholder="Type command here..." />
+    </div>
+    <div class="led-ticker" id="banner">
+      <span class="led-message">Welcome to PILOT for Differential Equations at the Johns Hopkins University.</span>
+    </div>
+  </div>
+
+  <script type="text/javascript"
+    async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+  </script>
+
+<script src="/assets/js/redirect.js"></script>
+<script type="module" src="https://bear-resort.github.io/assets/js/day-night.js"></script>
+<script type="module" src="https://bear-resort.github.io/assets/js/textarea.js"></script>
+<script src="https://bear-resort.github.io/assets/js/dynamic-island.js"></script>
+<script src="https://bear-resort.github.io/assets/js/listener.js"></script>
+
+</body>
+</html>
